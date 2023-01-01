@@ -35,6 +35,6 @@
   "devDependencies": {
     "express-session": "^1.17.1",
     "sequelize-cli": "^6.1.0",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   }
 }
